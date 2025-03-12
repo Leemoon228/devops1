@@ -1,0 +1,8 @@
+Package: devops1-main
+Version: 1.0
+Section: devel
+Priority: optional
+Architecture: amd64
+Depends: g++, make, libstdc++6
+Maintainer: lem
+Description: yes
